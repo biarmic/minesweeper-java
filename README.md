@@ -2,7 +2,7 @@
 
 ## Features
 * Sound effects
-* Able change the resolution
+* Adjustable resolution
 
 ## What I Learned
 * Swing in Java
